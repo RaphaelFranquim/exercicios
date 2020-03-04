@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang = "pt-BR">
+	<head>
+		<meta charset = 'utf-8' />
+		<title> Exercício </title>
+		<script type = "text/javascript" src = "exercicio.js"> </script>
+	</head>	
+	<body>
+		<h1> Dados do usuário </h1>
+		<form name = "exercicio">			
+			<input type = "text" name = "nome" placeholder = "Nome" />
+			<br />
+			<input type = "email" name = "email" placeholder = "Email" />
+			<br />
+			<input type = "text" name = "sexo" placeholder = "Sexo" />
+			<br />
+			<input type = "text" name = "data" placeholder = "Data de Nascimeto" />
+			<br />
+			<input type = "button" value = "Cadastrar" onclick = "escreve_mensagem(document.exercicio.nome.value, document.exercicio.email.value, document.exercicio.sexo.value, document.exercicio.data.value);" />		
+		</form>
+	</body>
+</html>

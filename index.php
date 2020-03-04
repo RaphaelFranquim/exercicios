@@ -9,7 +9,7 @@
 		Para acessar o site da Barbearia<a href = "Barbearia"> clique aqui. </a>
 	</p>
 	<p>
-		Para acessar o site do Cadastro<a href = "20200304"> clique aqui. </a>
+		Para acessar o site do Cadastro<a href = "20200304/exercicio.html"> clique aqui. </a>
 	</p>
 </body>
 </html>

@@ -6,7 +6,7 @@
 <body>
 	<h1> Página com links dos meus exercícios </h1>
 	<p>
-		Para acessar o site da Barbearia<a href = "20200219/Barbearia/index.php"> clique aqui. </a>
+		Para acessar o site da Barbearia<a href = "20200219/Barbearia/form_agendamento.php"> clique aqui. </a>
 	</p>
 	<p>
 		Para acessar o site do Cadastro<a href = "20200304/exercicio.html"> clique aqui. </a>
